@@ -1,4 +1,3 @@
-/* global Stripe*/
 $(document).ready(function()
 {
   window.alert("Hello");
