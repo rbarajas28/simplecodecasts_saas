@@ -11,10 +11,7 @@
 // about supported directives.
 //
 //= require jquery
-//= require bootstrap-sprockets
 //= require jquery_ujs
-//= require_tree .
-//= require users
 $(document).ready(function()
 {
   window.alert("Main");
