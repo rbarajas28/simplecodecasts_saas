@@ -1,7 +1,5 @@
 $(document).ready(function()
 {
-  window.alert("Hello");
-  
   Stripe.setPublishableKey($('meta[name="stripe-key"]').attr('content'));
   
   // Watch for a form submission:

@@ -15,3 +15,7 @@
 //= require jquery_ujs
 //= require_tree .
 //= require users
+$(document).ready(function()
+{
+  window.alert("Main");
+});
